@@ -1,0 +1,70 @@
+vboxuser
+password changeme
+su root:changeme
+who:to check the user
+sudo su:to change into root user
+whoami:to know the present user
+ls: list out of the files
+ls -l : list out the long list
+ls -al: list out the hidden files
+cd /: to connect to the root
+d----> directory
+l or '-' ----->files
+pwd: present working directory
+cd : change directory
+mkdir(make directory) : to create the directory
+vi(visual interface)
+:wq ---> write and quit
+q ---->only quit
+Touch file1 file2 file3: To create mutiple files
+mkdir dir1 dir2 dir3 :To create mutiple directories
+cat > filename: To create instant file
+cat >> filename: To append the data to existing file
+rm filename: to remove the file
+mv oldname newname:To rename the filename
+mv filename directoryname: To move file to specific directory
+rmdir :to remove directory
+cp filename1 filename2/newfilename : To copy file1 to file2
+rm -r dirctoryname: remove directory recursively
+rm -rf directoryname: to remove directory forcefully  
+useradd username:to add user
+passwd username:to setup password for the user
+history: To view used commands
+apt install python3
+python3
+ctrl D
+touch 11 22 33
+mv 11 azure:rename
+mkdir dir1 dir2 dir3:directries
+mv 22 dir1:inside the directery
+cd dir1:opening directry
+vi 22:file creation
+escp,shift : ,and wq
+cd ..  :out of the dirctry
+mkdir dir4: inside the directry
+cd dir4: in the directry
+pwd multiple of directries
+cd ../..  :back to two directries
+useradd user1: creating user
+passwd:creating own password
+su user1: user switching
+su root :coming to root
+passwd:changeme
+clear
+rm -r dir1:r= recursively;rf=remove forcely
+user details:cd dir and ls
+ls -l
+cat passwd
+cd ..and ls 
+cd dir and ls
+cat gshadow
+cat gshadow-
+passwd vboxuser
+1234: password:changing the password
+userdel user2:deleting the user
+
+
+ssh-i copiedkey(paste) 
+
+
+
